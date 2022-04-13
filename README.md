@@ -1,4 +1,5 @@
-# ANDROID-SCREEN-STREAM in Progress
+# on 13.04.2022 source code is also added at this date now dont have to download receivestream.exe just compile it yourself on visual studio c# and sra6.java contain code of server you can compile it at android studio cheers
+
 A SERVER INSTALABLE ON ANDROID AND A CLIENT RUNABLE ON PC ENJOY
 INSTAL APP-DEBUG.APK U CAN ALSO DEBUG IT TO GET CODE
 RUN RECEIVESTREAM.EXE FROM https://drive.google.com/drive/folders/1r_LA68Z6VhngRPkxmYOeKw0XoLcJ8Epw?usp=sharing
